@@ -11,7 +11,7 @@
 - [x] PDF: 我们的美赛论文
 - [x] Code: 模型的代码（Matlab, Python）
 - [x] Figure: 图片制作的PPT模版
-- [ ] Note: 我的美赛笔记（写作绘图、团队协作）
+- [x] Note: 我的美赛笔记（写作绘图、团队协作）
 - [ ] Word: 美赛论文的原始模版
 
 <div class="second">
@@ -28,9 +28,9 @@
 
 ## 相关资源
 
-- [国际数学建模 F 奖 C题读题与数据分析经验]([C题读题与数据分析经验 - 小红书](https://www.xiaohongshu.com/explore/6889888600000000050080b8?xsec_token=ABFNalEj-TsAsNy8LbGbOlsFuCcMoClgm3o6No0f3e3N4=&xsec_source=pc_user))
-- [美赛第二期：如何分析AI的结果，拿到 F 奖]([如何分析AI的结果](https://www.xiaohongshu.com/explore/6899be4200000000050048c2?xsec_token=ABQJOlWqruiNhtpSV6QQDtzaMkWQTRIulGYwB2VBIloiM=&xsec_source=pc_search&source=unknown))
-- [美赛第三期：借助 AI 包装创新点，拿下F奖🥳]([借助 AI 包装创新点](https://www.xiaohongshu.com/explore/68a5612a000000001d02deab?xsec_token=AB3bvRB-UjJFXoTbhkCWYPxY6OtZG45FgkL_cq1aL3Nnc=&xsec_source=pc_search&source=unknown))
+- [国际数学建模 F 奖 C题读题与数据分析经验](https://www.xiaohongshu.com/explore/6889888600000000050080b8?xsec_token=ABFNalEj-TsAsNy8LbGbOlsFuCcMoClgm3o6No0f3e3N4=&xsec_source=pc_user)
+- [美赛第二期：如何分析AI的结果，拿到 F 奖](https://www.xiaohongshu.com/explore/6899be4200000000050048c2?xsec_token=ABQJOlWqruiNhtpSV6QQDtzaMkWQTRIulGYwB2VBIloiM=&xsec_source=pc_search&source=unknown)
+- [美赛第三期：借助 AI 包装创新点，拿下F奖🥳](https://www.xiaohongshu.com/explore/68a5612a000000001d02deab?xsec_token=AB3bvRB-UjJFXoTbhkCWYPxY6OtZG45FgkL_cq1aL3Nnc=&xsec_source=pc_search&source=unknown)
 - 百度网盘，实时更新最新美赛开源材料（全部免费！）
   - 链接: 
   - 提取码: 
