@@ -24,7 +24,7 @@
 - [JingtangChen 陈竟镗](https://grokcv.ai/author/jingtang-chen/)  (Leader, Writing，Modeling，coding)
 - SiyingXu 徐思颖 (Modeling)
 - yangyangDong 董杨洋 (Coding)
-- Advisor:  Mingjian Fu 傅明建教授, Yong Zhou 周勇教授
+- Advisor:  Mingjian Fu [傅明建教授](https://csip.fzu.edu.cn/?page_id=787), Yong Zhou [周勇教授](https://math.fzu.edu.cn/info/1093/7292.htm)
 
 ## 相关资源
 
@@ -47,7 +47,7 @@ COMAP-MCM-2025美赛材料由本团队汇总整理。材料完全免费开源，
 
 最后的最后，祝你比赛顺利，学业有成。我们高处见！
 
-**致谢**：感谢 [蔡汉霖学长 （Hanlin Cai,剑桥Phd 在读学生）](https://github.com/GuangLun2000),罗文轩学长（Wenxuan Luo，中科院在读学生），为我们提供的宝贵建议，以及提供的宝贵参考资料，让我们有机会从容地站上
+**致谢**：感谢 [蔡汉霖学长 （Hanlin Cai,剑桥Phd 在读学生）](https://github.com/GuangLun2000),罗文轩学长（Wenxuan Luo，中科院在读学生），为我们提供的宝贵建议，以及提供的宝贵参考资料，让我们有机会从容地站上这个舞台
 
 ### 
 
