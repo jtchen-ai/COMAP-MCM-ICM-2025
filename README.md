@@ -28,9 +28,9 @@
 
 ## 相关资源
 
-- [国际数学建模 F 奖 C题读题与数据分析经验]((https://www.xiaohongshu.com/explore/6889888600000000050080b8?xsec_token=ABFNalEj-TsAsNy8LbGbOlsFuCcMoClgm3o6No0f3e3N4=&xsec_source=pc_user))
-- [美赛第二期：如何分析AI的结果，拿到 F 奖]((https://www.xiaohongshu.com/explore/6899be4200000000050048c2?xsec_token=ABQJOlWqruiNhtpSV6QQDtzaMkWQTRIulGYwB2VBIloiM=&xsec_source=pc_search&source=unknown))
-- [美赛第三期：借助 AI 包装创新点，拿下F奖🥳]((https://www.xiaohongshu.com/explore/68a5612a000000001d02deab?xsec_token=AB3bvRB-UjJFXoTbhkCWYPxY6OtZG45FgkL_cq1aL3Nnc=&xsec_source=pc_search&source=unknown))
+- [国际数学建模 F 奖 C题读题与数据分析经验]([国际数学建模 F 奖 C题读题与数据分析经验 - 小红书](https://www.xiaohongshu.com/explore/6889888600000000050080b8?xsec_token=ABFNalEj-TsAsNy8LbGbOlsFuCcMoClgm3o6No0f3e3N4=&xsec_source=pc_user))
+- [美赛第二期：如何分析AI的结果，拿到 F 奖]([美赛第二期：如何分析AI的结果，拿到 F 奖 - 小红书](https://www.xiaohongshu.com/explore/6899be4200000000050048c2?xsec_token=ABQJOlWqruiNhtpSV6QQDtzaMkWQTRIulGYwB2VBIloiM=&xsec_source=pc_search&source=unknown))
+- [美赛第三期：借助 AI 包装创新点，拿下F奖🥳]([美赛第三期：借助 AI 包装创新点，拿下F奖 - 小红书](https://www.xiaohongshu.com/explore/68a5612a000000001d02deab?xsec_token=AB3bvRB-UjJFXoTbhkCWYPxY6OtZG45FgkL_cq1aL3Nnc=&xsec_source=pc_search&source=unknown))
 - 百度网盘，实时更新最新美赛开源材料（全部免费！）
   - 链接: 
   - 提取码: 
@@ -47,11 +47,11 @@ COMAP-MCM-2025美赛材料由本团队汇总整理。材料完全免费开源，
 
 最后的最后，祝你比赛顺利，学业有成。我们高处见！
 
+**致谢**：感谢 [蔡汉霖学长 （Hanlin Cai,剑桥Phd 在读学生）](https://github.com/GuangLun2000),罗文轩（Wenxuan Luo，中科院在读学生）学长，为我们提供的宝贵建议，以及提供的宝贵参考资料，让我们有机会从容地站上
+
+### 
 
 
-### 致谢
-
-感谢 [蔡汉霖学长 （Hanlin Cai,剑桥Phd 在读学生）](https://github.com/GuangLun2000),罗文轩（Wenxuan Luo，中科院在读学生）学长，为我们提供的宝贵建议，以及提供的宝贵参考资料，让我们有机会从容地站上这个舞台。
 
 <br>
 
