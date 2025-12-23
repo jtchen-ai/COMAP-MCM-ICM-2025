@@ -1,6 +1,6 @@
 # COMAP MCM/ICM 2023-2026
 
-我们的赛题：MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)
+我们的赛题：2025 MCM  Problem C: Models for Olympic Medal Tables 
 
 本材料为开源免费材料，如需获取2024年进阶材料，欢迎查看：
 
@@ -32,8 +32,8 @@
 - [美赛第二期：如何分析AI的结果，拿到 F 奖]([美赛第二期：如何分析AI的结果，拿到 F 奖 - 小红书](https://www.xiaohongshu.com/explore/6899be4200000000050048c2?xsec_token=ABQJOlWqruiNhtpSV6QQDtzaMkWQTRIulGYwB2VBIloiM=&xsec_source=pc_search&source=unknown))
 - [美赛第三期：借助 AI 包装创新点，拿下F奖🥳]([美赛第三期：借助 AI 包装创新点，拿下F奖 - 小红书](https://www.xiaohongshu.com/explore/68a5612a000000001d02deab?xsec_token=AB3bvRB-UjJFXoTbhkCWYPxY6OtZG45FgkL_cq1aL3Nnc=&xsec_source=pc_search&source=unknown))
 - 百度网盘，实时更新最新美赛开源材料（全部免费！）
-  - 链接: https://pan.baidu.com/s/1U6vZv310OkmjwLWu2wLDxA
-  - 提取码: mtc5
+  - 链接: 
+  - 提取码: 
 
 
 <br>
@@ -58,9 +58,8 @@ COMAP-MCM-2025美赛材料由本团队汇总整理。材料完全免费开源，
 
 你的支持是我们不断更新的动力！
 
-| <img src = "https://s2.loli.net/2022/09/30/LoZAKE2rfN965k4.jpg"> | <img src="Figure/prize/me.png" alt="me" style="zoom:80%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src = "Figure/prize/code.png"> | <img src="Figure/prize/me.png" alt="me" style="zoom:80%;" /> |
+| ----------------------------------- | ------------------------------------------------------------ |
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/COMAP-MCM-2023&type=Date)](https://star-history.com/#GuangLun2000/COMAP-MCM-2023&Date)
