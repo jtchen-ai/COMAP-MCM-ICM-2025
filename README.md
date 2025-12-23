@@ -2,7 +2,7 @@
 
 我们的赛题：2025 MCM  Problem C: Models for Olympic Medal Tables 
 
-本材料为开源免费材料，如需获取2024年进阶材料，欢迎查看：
+本材料为开源免费材料
 
 如果这些材料帮到了你，请不要吝惜，给这个Github仓库一个Star吧🥳这是对我最好的支持方式，感谢！
 
@@ -29,13 +29,17 @@
 ## 相关资源
 
 - [国际数学建模 F 奖 C题读题与数据分析经验](https://www.xiaohongshu.com/explore/6889888600000000050080b8?xsec_token=ABFNalEj-TsAsNy8LbGbOlsFuCcMoClgm3o6No0f3e3N4=&xsec_source=pc_user)
-- [美赛第二期：如何分析AI的结果，拿到 F 奖](https://www.xiaohongshu.com/explore/6899be4200000000050048c2?xsec_token=ABQJOlWqruiNhtpSV6QQDtzaMkWQTRIulGYwB2VBIloiM=&xsec_source=pc_search&source=unknown)
-- [美赛第三期：借助 AI 包装创新点，拿下F奖🥳](https://www.xiaohongshu.com/explore/68a5612a000000001d02deab?xsec_token=AB3bvRB-UjJFXoTbhkCWYPxY6OtZG45FgkL_cq1aL3Nnc=&xsec_source=pc_search&source=unknown)
-- 百度网盘，实时更新最新美赛开源材料（全部免费！）
-  - 链接: 
-  - 提取码: 
 
-<br>
+- [美赛第二期：如何分析AI的结果，拿到 F 奖](https://www.xiaohongshu.com/explore/6899be4200000000050048c2?xsec_token=ABQJOlWqruiNhtpSV6QQDtzaMkWQTRIulGYwB2VBIloiM=&xsec_source=pc_search&source=unknown)
+
+- [美赛第三期：借助 AI 包装创新点，拿下F奖🥳](https://www.xiaohongshu.com/explore/68a5612a000000001d02deab?xsec_token=AB3bvRB-UjJFXoTbhkCWYPxY6OtZG45FgkL_cq1aL3Nnc=&xsec_source=pc_search&source=unknown)
+
+- 百度网盘，实时更新最新美赛开源材料（全部免费！）
+  - 链接: https://pan.baidu.com/s/1W3sFX9Io9b7ZWYYlsNbD2w?pwd=1234 
+  
+  - 提取码: 1234
+  
+    
 
 ## 材料声明
 
