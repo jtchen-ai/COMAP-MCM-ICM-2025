@@ -21,7 +21,7 @@
 
 ## 团队成员
 
-- [JingtangChen 陈竟镗](https://grokcv.ai/author/jingtang-chen/)  (Leader, Writing，Modeling，coding)
+- [JingtangChen 陈竟镗](https://jtchen-ai.github.io/) (Leader, Writing，Modeling，coding)
 - SiyingXu 徐思颖 ( Writing)
 - yangyangDong 董洋杨 (Modeling)
 - Advisor:  Mingjian Fu [傅明建教授](https://csip.fzu.edu.cn/?page_id=787), Yong Zhou [周勇教授](https://math.fzu.edu.cn/info/1093/7292.htm)
