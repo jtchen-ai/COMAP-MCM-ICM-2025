@@ -12,7 +12,7 @@
 - [x] Code: 模型的代码（Matlab, Python）
 - [x] Figure: 图片制作的PPT模版
 - [x] Note: 我的美赛笔记（写作绘图、团队协作）
-- [ ] Word: 美赛论文的原始模版
+- [x] Word: 美赛论文的原始模版
 
 <div class="second">
 <img src = "./Figure/prize/MCM-2025.png" width = 100.0%>
